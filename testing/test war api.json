@@ -4,6 +4,6 @@
   "winner" : "NONE",
   "conquestStartTime" : 1744218005618,
   "conquestEndTime" : null,
-  "resistanceStartTime" : null,
+  "resistanceStartTime" : 1744244605,
   "requiredVictoryTowns" : 31
 }
